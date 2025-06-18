@@ -29,3 +29,13 @@ print('2.Olá, mundo! "Python é legal!"')
 print(r"Olá, mundo! \"Python é legal!\"")  # Imprime uma mensagem na tela, com r antes da string para tratar como raw string, imprimir \ também
 
 #############################Inteiro e Float################################
+
+num_int = 10 # Definindo um número inteiro
+num_int2 = -20
+print(num_int + num_int2)  # Imprime a soma de dois números inteiros na tela
+num_float = 10.5  # Definindo um número float
+print(num_float)  # Imprime o número inteiro na tela
+
+# A função type mostra o tipo que o Python
+# inferiu ao valor
+print(  type(20)) # imprime o tipo de objeto
