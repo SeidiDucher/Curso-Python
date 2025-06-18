@@ -39,3 +39,8 @@ print(num_float)  # Imprime o número inteiro na tela
 # A função type mostra o tipo que o Python
 # inferiu ao valor
 print(  type(20)) # imprime o tipo de objeto
+
+########################Booleano#####################################
+# questiona se valor é verdadeiro ou falso (True ou False)
+print(1 > 5)  # Imprime True, pois 10 é maior que 5
+print(10 == 10)  # Imprime True, pois 10 é igual a 10
